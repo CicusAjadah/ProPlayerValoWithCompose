@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProPlayerValorantWithCompose</string>
+    <string name="menu_home">Homepage</string>
+    <string name="about_page">About Page</string>
+    <string name="foto_profil">Profile Photo</string>
+    <string name="namaku">Fransiskus David Yudaputra</string>
+    <string name="emailku">davidyudanindra@gmail.com</string>
+    <string name="back">Back</string>
+    <string name="search_player">Search player...</string>
+</resources>
